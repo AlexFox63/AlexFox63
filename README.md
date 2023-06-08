@@ -38,10 +38,10 @@ I'm a passionate Flutter developer who loves to create beautiful and essential p
 Other projects: H&B Gut, H&B Meno (projects were closed).
 
 ## GitHub Statistics 📈
-<a href="https://github.com/YourGitHubUsername">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=light&hide_langs_below=0&title_color=000" />
+<a href="https://github.com/AlexFox63">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlexFox63&theme=light&hide_langs_below=0&title_color=000" />
 </a>
 
-<a href="https://github.com/YourGitHubUsername">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=light&line_height=40&title_color=7221ff&count_private=true" />
+<a href="https://github.com/AlexFox63">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlexFox63&show_icons=true&theme=light&line_height=40&title_color=7221ff&count_private=true" />
 </a>
