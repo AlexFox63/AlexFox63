@@ -6,7 +6,7 @@ I'm a passionate Flutter developer who loves to create beautiful and essential p
 - 🚀 In the past, I've developed a range of applications, from streaming services to healthtech projects.
 - 💡 I develop MVPs for startups and businesses by using [Flutter](https://flutter.dev/) and [FlutterFlow](https://flutterflow.io/) in a [JustNoCode](https://github.com/JustIncDev)
 - 🌱 I’m always eager to learn and currently improving my knowledge of CI/CD and No-Code tools.
-- 📫 Contact me via email at `fokinsasha2014163@gmail.com`.
+- 📫 Contact me via email at `fokinsasha2014163@gmail.com`
 - 🖖🏻 Contact me via [LinkedIn](https://www.linkedin.com/in/alex-code/)
 
 ## Tech Skills 💻
